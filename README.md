@@ -7,5 +7,5 @@
 
 
 ✨ **Software Bruce para M5StickC Plus2** ✨
-
+Después de estar probando el software de Bruce en sus últimas versiones para el M5StickC Plus2, puedo decir que es un divertido e interactivo software bien refinado y bastante completo, aún mas si le añades respectivos módulos como la anten NRF24, IR, RFID, los cuales iré comentando a continuación.
 </div>
