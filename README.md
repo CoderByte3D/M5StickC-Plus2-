@@ -5,33 +5,20 @@
 <img width="250" height="250" alt="M5StickC Plus2" src="https://github.com/user-attachments/assets/e3f0ef93-b7a6-4e85-9bb5-6d66347c749e" />
 
 ---
+![WhatsApp Image 2025-11-25 at 12 52 34(1)](https://github.com/user-attachments/assets/e9c1bbb9-3954-4955-ba58-45c39d393342)
+
+
 <!-- Fotos con el texto de las diferentes partes fisicas del M5Stick -->
-
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
-        width="250"
-        style="border-radius: 20px;"
-      />
-    </td>
-    <td style="padding-left: 20px;">
-      <h3>📌 M5StickC Plus2</h3>
-      Pequeño, potente y perfecto para proyectos IoT.  
-      Ideal para sensores, displays, automatización y todo tipo de inventos tecnológicos.
-    </td>
-  </tr>
-</table>
-
 
 <table>
 
   <!-- FILA 1 -->
+<img width="800" height="800" alt="imagen" src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854" />
+  
   <tr>
     <td>
       <img 
-        src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
+        src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
         width="250"
         style="border-radius: 20px;"
       />
@@ -40,14 +27,16 @@
       <h3>📌 M5StickC Plus2</h3>
       Pequeño, potente y perfecto para proyectos IoT.  
       Ideal para sensores, displays, automatización y todo tipo de inventos.
+      En su frontal, cuenta con el botón M5, botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente)
     </td>
   </tr>
+
 
   <!-- FILA 2 -->
   <tr>
     <td>
       <img 
-        src="AQUI_PONES_LA_FOTO_2"
+        src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
         width="250"
         style="border-radius: 20px;"
       />
@@ -63,7 +52,7 @@
   <tr>
     <td>
       <img 
-        src="AQUI_PONES_LA_FOTO_3"
+        src="https://github.com/user-attachments/assets/e9c1bbb9-3954-4955-ba58-45c39d393342"
         width="250"
         style="border-radius: 20px;"
       />
