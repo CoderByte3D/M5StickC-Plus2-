@@ -9,6 +9,17 @@
 <!-- Fotos con el texto de las diferentes partes fisicas del M5Stick -->
 
 <table>
+
+  <tr>
+    <td>
+            <img 
+        src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
+        width="500"
+        style="border-radius: 20px;"
+      />
+    </td>
+  </tr>
+  
   <!-- FILA 1 -->
   <tr>
     <td>
