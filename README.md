@@ -13,6 +13,7 @@
 <!-- Cabezera de la tabla -->
 <tr>
   <td colspan="2" style="text-align: center; padding: 0; margin: 0;">
+    <h2 style="margin: 5px 0 0 0;">  ⚙️Hardware del M5StickC Plus2⚙️ </h2>
     <div style="display: inline-block; margin: 0; padding: 0;">
       <img 
         src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
