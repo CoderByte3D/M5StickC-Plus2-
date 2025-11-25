@@ -6,6 +6,7 @@
 
 ---
 
+
 <table>
   <tr>
     <td>
@@ -25,16 +26,52 @@
 
 
 
+<!-- Foto del M5StickC Plus2 -->
+<table>
+  <tr>
+    <td>
+      <img 
+        src="ENLACE_DE_TU_FOTO_1"
+        width="250"
+        style="border-radius: 20px;"
+      />
+    </td>
+    <td>
+      <h3>Título o descripción de la foto</h3>
+      <p>
+        Escribe aquí tu texto explicando la imagen, las características,
+        información técnica o lo que quieras.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Aquí empieza la siguiente foto -->
+<table>
+  <tr>
+    <td>
+      <img 
+        src="ENLACE_DE_TU_FOTO_2"
+        width="250"
+        style="border-radius: 20px;"
+      />
+    </td>
+    <td>
+      <h3>Título o descripción de la segunda foto</h3>
+      <p>
+        Aquí escribes lo que quieras sobre la segunda imagen.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ##✨ **Software Bruce para M5StickC Plus2** ✨
 
 > 🔸Después de estar probando el software de **Bruce** en sus últimas versiones para el **M5StickC Plus2**, puedo decir que es un **divertido e interactivo software bien refinado y bastante completo**.
 (IMAGEN DE INICIO DE BRUCE)
-
-  <img 
-    src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
-    width="250"
-    style="border-radius: 20px;"
-  />
 
 
 Aún mas si le añades los respectivos módulos como la antena **NRF24, IR, RFID**, los cuales iré comentando a continuación.
