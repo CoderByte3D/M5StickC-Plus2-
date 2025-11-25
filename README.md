@@ -25,7 +25,6 @@
   </td>
 </tr>
   
-<img width="239" height="333" alt="imagen" src="https://github.com/user-attachments/assets/246b7710-fb38-4fa2-9d8f-43aaa2d73f50" />
 
   <!-- FILA 1 -->
   <tr>
@@ -44,13 +43,6 @@
 
   <!-- FILA 2 -->
   <tr>
-    <td>
-      <img 
-        src="https://github.com/user-attachments/assets/246b7710-fb38-4fa2-9d8f-43aaa2d73f50"
-        width="440"
-        style="border-radius: 20px;"
-      />
-    </td>
     <td style="padding-left: 20px;">
             <img 
         src="https://github.com/user-attachments/assets/e9c1bbb9-3954-4955-ba58-45c39d393342"
