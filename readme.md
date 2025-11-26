@@ -67,7 +67,22 @@
     </td>
     <td style="padding-left: 20px;">
       <h3>⬇️Parte inferior del M5StickC⬇️</h3>
-      Incluye un puerto de carga y transferencia de datos USB Tipo C, y cuatro pines para conectar los modulos éxtras ( GND, 5V, G32 y G33 ).
+      Incluye un puerto de carga y transferencia de datos USB Tipo C, y cuatro pines para conectar los modulos éxtras ( GND, 5V OUT, G32 y G33 ).
+    </td>
+  </tr>
+
+  <!-- FILA 4 -->
+  <tr>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/7ea70924-9b95-4222-8fd5-c99684f58df0"
+        width="440"
+        style="border-radius: 20px;"
+      />
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>⬇️Parte superior del M5StickC⬇️</h3>
+      Incluye 8 pines para conectar los modulos éxtras ( GND, 5V OUT, G26, G36/G25, G0, BAT, 3V3 ,5V IN ) y orificios para los sensores internos.
     </td>
   </tr>
 
