@@ -66,7 +66,7 @@
       />
     </td>
     <td style="padding-left: 20px;">
-      <h3>⬇️)Parte inferior del M5StickC⬇️)</h3>
+      <h3>⬇️Parte inferior del M5StickC⬇️</h3>
       Incluye un puerto de carga y transferencia de datos USB Tipo C, y cuatro pines para conectar los modulos éxtras ( GND, 5V, G32 y G33 ).
     </td>
   </tr>
