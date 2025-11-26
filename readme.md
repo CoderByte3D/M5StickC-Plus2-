@@ -60,15 +60,14 @@
   <tr>
     <td>
       <img 
-        src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
+        src="https://github.com/user-attachments/assets/e4f70780-ebd5-462d-8b16-6c1d73df8bdb"
         width="440"
         style="border-radius: 20px;"
       />
     </td>
     <td style="padding-left: 20px;">
-      <h3>📌 M5StickC Plus2</h3>
-      Pequeño, potente y perfecto para proyectos IoT.  
-      Ideal para sensores, displays, automatización y todo tipo de inventos.
+      <h3>⬇️)Parte inferior del M5StickC⬇️)</h3>
+      Incluye un puerto de carga y transferencia de datos USB Tipo C, y cuatro pines para conectar los modulos éxtras ( GND, 5V, G32 y G33 ).
     </td>
   </tr>
 
