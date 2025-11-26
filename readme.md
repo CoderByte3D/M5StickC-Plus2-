@@ -52,7 +52,7 @@
     </td>
     <td style="padding-left: 20px;">
       <h3>🎫Dorsal del M5Stick🎫</h3>
-      En la parte trasera, cuenta con la etiqueta que nos indica varios de los módulos que integra, aparte de un imán para fijar el M5Stick a cualquier superficie metalica, a parte, la rejilla del zumbador (altavoz de pitidos) 
+      En la parte trasera, cuenta con la etiqueta que nos indica varios de los módulos que integra, aparte de un imán para fijar el M5Stick a cualquier superficie metalica, a parte, la rejilla del zumbador (altavoz de pitidos) , y el sensor IMU (Giroscopio).
     </td>
   </tr>
   
