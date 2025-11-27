@@ -182,10 +182,35 @@ Para instalarle otros Firmwares de la comunidad a nuestro dispositivo M5StickC P
 
 
 
-- 📡 **Dentro de M5BURNER nos facilitarán tanto firmwares oficiales como firmwares de la comunidad (Los de la comunidad son los más efectivos)**
+- **Dentro de M5BURNER nos facilitarán tanto firmwares oficiales como firmwares de la comunidad (Los de la comunidad son los más efectivos)**
 Dejo el link de un tutorial que hize en YouTube:
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=TU_ID_DE_VIDEO" target="_blank">
+    <img
+      src="https://img.shields.io/badge/📺%20Video-Tutorial-red?style=for-the-badge&logo=youtube"
+      height="60"
+    >
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=TU_ID_DE_VIDEO" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=youtube"
+      height="60"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=TU_ID_DE_VIDEO" target="_blank">
+    <img
+      src="https://img.shields.io/badge/▶️%20YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube"
+      height="60"
+    >
+  </a>
+</p>
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
 ## 🔌 Módulos que elevan su potencial
