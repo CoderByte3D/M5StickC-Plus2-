@@ -128,7 +128,7 @@ Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica,
 
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
- 🔌 Módulos que elevan su potencial
+## 🔌 Módulos que elevan su potencial
 
 Si además le añades módulos externos como:
 
