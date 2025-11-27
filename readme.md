@@ -86,6 +86,21 @@
     </td>
   </tr>
 
+    <!-- FILA 5 -->
+  <tr>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/cd70c47d-e1fd-456e-b789-02244e1de3d5"
+        width="440"
+        style="border-radius: 20px;"
+      />
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>👉Lateral (R) del M5StickC👉</h3>
+      Incluye el botón (BtnB).
+    </td>
+  </tr>
+
 </table>
 
 
