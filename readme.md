@@ -10,7 +10,8 @@
 <tr>
   <td colspan="2" style="text-align: center; padding: 0; margin: 0;">
     <h1 style="margin: 5px 0 0 0;"> ⚙️ M5StickC-Plus2 ⚙️</h1>
-    <h2> Este dispositivo compacto integra un ESP32-PICO-V3-02 con módulos básicos de WIFI, Bluetooth, IR, RF, RFID, NRF24, FM y Scripts Ejecutables</h2>
+    <h2> Este dispositivo compacto integra un ESP32-PICO-V3-02 con módulos básicos de WIFI, Bluetooth, IR, RF, RFID, NRF24, FM y Scripts Ejecutables.</h2>
+    <h2> Todo ésto en conjunto le convierte en un Kit de Desarrollo IOT fascinante.</h2>
     <div style="display: inline-block; margin: 0; padding: 0;">
       <img 
         src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
@@ -100,10 +101,22 @@
       Incluye el botón (BtnB) el cual es utilizado para movernos por el sistema.
     </td>
   </tr>
-
+  <!-- FILA 6 -->
+  <tr>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/9fa1b0c6-d64b-404f-9dba-16012a0e3e47"
+        width="440"
+        style="border-radius: 20px;"
+      />
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>👉Interior del M5StickC👉</h3>
+      Incluye el botón (BtnB) el cual es utilizado para movernos por el sistema.
+    </td>
+  </tr>
+  
 </table>
-
-
 
 
 <!-- SOFTWARE BASE DE M5STICK -->
