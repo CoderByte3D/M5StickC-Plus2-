@@ -25,7 +25,18 @@
 
   </td>
 </tr>
-  
+
+  <tr>
+    <td>
+         <img src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149" style="max-width: 100%; height: auto;">
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>🖲️Frontal del M5Stick🖲️</h3>
+      En su frontal, cuenta con la pantalla LCD de 1.14 pulgadas donde correrá el entorno visual del firmware que instalemos, debajo,  el botón M5 (BtnA), botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente).
+    </td>
+  </tr>
+
+
 
   <!-- FILA 1 -->
   <tr>
