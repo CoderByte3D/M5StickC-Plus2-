@@ -2,11 +2,14 @@
 
 ---
 
+<!-- ///////////////////////////////////////////////////////////////////////////////// -->
 <!-- Tabla con Fotos con el texto de las diferentes partes fisicas del M5Stick -->
-
+<!-- /////////////////////////////////////////////////////////////////////////////// -->
 <table>
   
+<!-- //////////////////////////////////////////////// -->
 <!-- Cabezera de la tabla -->
+<!-- //////////////////////////////////////////////// -->
 <tr>
   <td colspan="2" style="text-align: center; padding: 0; margin: 0;">
     <h1 style="margin: 5px 0 0 0;"> ⚙️ M5StickC-Plus2 ⚙️</h1>
@@ -26,7 +29,9 @@
   </td>
 </tr>
 
+<!-- //////////////////////////////////////////////// -->
   <!-- FILA 1 -->
+<!-- //////////////////////////////////////////////// -->
   <tr>
     <td>
       <img 
@@ -40,8 +45,9 @@
       En su frontal, cuenta con la pantalla LCD de 1.14 pulgadas donde correrá el entorno visual del firmware que instalemos, debajo,  el botón M5 (BtnA), botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente).
     </td>
   </tr>
-
+<!-- //////////////////////////////////////////////// -->
   <!-- FILA 2 -->
+<!-- //////////////////////////////////////////////// -->
   <tr>
     <td>
       <img 
@@ -55,8 +61,9 @@
       En la parte trasera, cuenta con la etiqueta que nos indica varios de los módulos que integra, aparte de un imán debajo de la pegatina, para fijar el M5Stick a cualquier superficie metalica, a parte, orificios del zumbador (altavoz de pitidos) , y el sensor IMU (Giroscopio).
     </td>
   </tr>
-  
+<!-- //////////////////////////////////////////////// -->
   <!-- FILA 3 -->
+<!-- //////////////////////////////////////////////// -->
   <tr>
     <td>
       <img 
@@ -70,8 +77,9 @@
       Incluye un puerto de carga y transferencia de datos USB Tipo C, y cuatro pines para conectar los modulos éxtras ( GND, 5V OUT, G32 y G33 ).
     </td>
   </tr>
-
+<!-- //////////////////////////////////////////////// -->
   <!-- FILA 4 -->
+<!-- //////////////////////////////////////////////// -->
   <tr>
     <td>
       <img 
@@ -85,8 +93,9 @@
       Incluye entrada de 8 pines para conectar los modulos éxtras ( GND, 5V OUT, G26, G36/G25, G0, BAT, 3V3 ,5V IN ) y orificios para los sensores internos.
     </td>
   </tr>
-
+<!-- //////////////////////////////////////////////// -->
   <!-- FILA 5 -->
+<!-- //////////////////////////////////////////////// -->
   <tr>
     <td>
       <img 
@@ -101,8 +110,10 @@
     </td>
   </tr>
 </table>
-  
+
+<!-- //////////////////////////////////////////////// -->
   <!-- TABLA PARA EL INTERIOR DEL M5STICK -->
+<!-- //////////////////////////////////////////////// -->
 <table>
   <tr>
     <td>
@@ -131,7 +142,9 @@
   </tr>
 </table>
 
-<!-- SOFTWARE BASE DE M5STICK -->
+<!-- //////////////////////////////////////////////// -->
+  <!-- SOFTWARE BASE DE M5STICK -->
+<!-- //////////////////////////////////////////////// -->
 
 ## 🔌 FIRMWARE QUE VIENE DE SERIE EN EL M5STICKC PLUS2 🔌
 Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica, el cual es un firmware demo (no pensado como firmware final) se instala para la demostración y para que el aparato tenga algo instalado, que luego le cambiaremos (más adelante en este mismo repositorio lo mencionaré).
@@ -150,24 +163,15 @@ Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica,
 
 - ᛒ **Modulo Bluetooth** (Modulo bluetooth el cual muestra si tenemos el Bluetooth activo o no, e información de nuestro dispositivo.)
   
-<ul style="text-align: left;">
-  <li>🧭 <strong>Giroscopio:</strong> Comprueba la calibración del M5.</li>
-  <li>🌈 <strong>Color:</strong> Demostración y calibración de la paleta de colores que utiliza el sistema.</li>
-  <li>🌐 <strong>WiFi Scan:</strong> Un simple sniffer WiFi que escanea los APs e información alrededor.</li>
-  <li>🕓 <strong>Clock:</strong> Simple reloj digital.</li>
-  <li>🎮 <strong>IR Send:</strong> Módulo de infrarrojos que envía pulsos en el canal que elijas.</li>
-  <li>🗣 <strong>Detector de sonido:</strong> Módulo que detecta sonido mediante el micrófono incorporado.</li>
-  <li>ᛒ <strong>Módulo Bluetooth:</strong> Muestra si el Bluetooth está activo y muestra información del dispositivo.</li>
-</ul>
-
-
-<!-- SOFTWARE M5BURNER PARA FLASHEAR M5 -->
-
+<!-- //////////////////////////////////////////////// -->
+  <!-- SOFTWARE M5BURNER PARA FLASHEAR M5 -->
+<!-- //////////////////////////////////////////////// -->
 ## 👨‍💻 SOFTWARE M5BURNER PARA FLASHEAR LOS DISPOSITIVOS M5STICKC 👨‍💻
 
 Para instalarle otros Firmwares de la comunidad a nuestro dispositivo M5StickC Plus 2 necesitamos el programa M5Burner, que la misma empresa M5 nos lo facilita en su pagina web:
-
-<!-- BOTÓN DE DESCARGA QUE LLEVA A LA URL DEL M5BURNER -->
+<!-- //////////////////////////////////////////////// -->
+  <!-- BOTÓN DE DESCARGA QUE LLEVA A LA URL DEL M5BURNER -->
+<!-- //////////////////////////////////////////////// -->
 <p align="center">
   <a href="https://docs.m5stack.com/en/uiflow/m5burner/intro" target="_blank">
     <img
@@ -191,6 +195,9 @@ Para instalarle otros Firmwares de la comunidad a nuestro dispositivo M5StickC P
 - **Dentro de M5BURNER nos facilitarán tanto firmwares oficiales como firmwares de la comunidad (Los de la comunidad son los más efectivos)**
 Dejo el link de un tutorial que hize en YouTube:
 
+<!-- //////////////////////////////////////////////// -->
+  <!-- BOTÓN ENLACE A VIDEO DE YT -->
+<!-- //////////////////////////////////////////////// -->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=TU_ID_DE_VIDEO" target="_blank">
     <img
@@ -200,8 +207,9 @@ Dejo el link de un tutorial que hize en YouTube:
   </a>
 </p>
 
-<!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
-
+<!-- //////////////////////////////////////////////// -->
+  <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
+<!-- //////////////////////////////////////////////// -->
 ## 🔌 Módulos que elevan su potencial
 
 Si además le añades módulos externos como:
@@ -213,8 +221,9 @@ Si además le añades módulos externos como:
 …el dispositivo se vuelve aún más versátil.  
 Pronto comentaré cada uno de ellos en detalle.
 
-<!-- SOFTWARE BRUCE ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
-
+<!-- //////////////////////////////////////////////// -->
+  <!-- SOFTWARE BRUCE ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
+<!-- //////////////////////////////////////////////// -->
 ##✨ **Software Bruce para M5StickC Plus2** ✨
 
 > 🔸Después de estar probando el software de **Bruce** en sus últimas versiones para el **M5StickC Plus2**, puedo decir que es un **divertido e interactivo software bien refinado y bastante completo**.
