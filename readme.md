@@ -52,7 +52,7 @@
     </td>
     <td style="padding-left: 20px;">
       <h3>🎫Dorsal del M5Stick🎫</h3>
-      En la parte trasera, cuenta con la etiqueta que nos indica varios de los módulos que integra, aparte de un imán para fijar el M5Stick a cualquier superficie metalica, a parte, la rejilla del zumbador (altavoz de pitidos) , y el sensor IMU (Giroscopio).
+      En la parte trasera, cuenta con la etiqueta que nos indica varios de los módulos que integra, aparte de un imán debajo de la pegatina, para fijar el M5Stick a cualquier superficie metalica, a parte, orificios del zumbador (altavoz de pitidos) , y el sensor IMU (Giroscopio).
     </td>
   </tr>
   
@@ -82,7 +82,7 @@
     </td>
     <td style="padding-left: 20px;">
       <h3>⬇️Parte superior del M5StickC⬇️</h3>
-      Incluye 8 pines para conectar los modulos éxtras ( GND, 5V OUT, G26, G36/G25, G0, BAT, 3V3 ,5V IN ) y orificios para los sensores internos.
+      Incluye entrada de 8 pines para conectar los modulos éxtras ( GND, 5V OUT, G26, G36/G25, G0, BAT, 3V3 ,5V IN ) y orificios para los sensores internos.
     </td>
   </tr>
 
@@ -97,13 +97,27 @@
     </td>
     <td style="padding-left: 20px;">
       <h3>👉Lateral (R) del M5StickC👉</h3>
-      Incluye el botón (BtnB).
+      Incluye el botón (BtnB) el cual es utilizado para movernos por el sistema.
     </td>
   </tr>
 
 </table>
 
 
+
+
+<!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
+
+## 🔌 Módulos que elevan su potencial
+
+Si además le añades módulos externos como:
+
+- 📡 **NRF24** (comunicación inalámbrica)  
+- 📶 **IR** (control y lectura infrarroja)  
+- 🟦 **RFID** (lectura de tarjetas)  
+
+…el dispositivo se vuelve aún más versátil.  
+Pronto comentaré cada uno de ellos en detalle.
 
 <!-- SOFTWARE BRUCE ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
@@ -130,15 +144,5 @@ Aún mas si le añades los respectivos módulos como la antena **NRF24, IR, RFID
 
 
 
-## 🔌 Módulos que elevan su potencial
-
-Si además le añades módulos externos como:
-
-- 📡 **NRF24** (comunicación inalámbrica)  
-- 📶 **IR** (control y lectura infrarroja)  
-- 🟦 **RFID** (lectura de tarjetas)  
-
-…el dispositivo se vuelve aún más versátil.  
-Pronto comentaré cada uno de ellos en detalle.
 
 ---
