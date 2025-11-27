@@ -119,7 +119,11 @@ Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica,
   
 - 🕓 **Clock** (Simple reloj digital.)
   
-- 🕓 **IR Send** (Modulo Infrarojos que manda pulsos en el canal que elijas.)
+- 🎮 **IR Send** (Modulo Infrarojos que manda pulsos en el canal que elijas.)
+
+- 🗣 **Detector de sonido** (Modulo detector de sonido por el microfono incorporado.)
+
+- ᛒ **Modulo Bluetooth** (Modulo bluetooth el cual muestra si tenemos el Bluetooth activo o no, e información de nuestro dispositivo.)
   
 
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
